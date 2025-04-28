@@ -2,7 +2,7 @@ from aiogram import Bot, Dispatcher, executor, types
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
 
-API_TOKEN = 'توکن ربات اینجا'
+API_TOKEN = '8058462987:AAF118uJ5cZ9K-38Wp5uNjGyTL9fb30T6so'
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot, storage=MemoryStorage())
